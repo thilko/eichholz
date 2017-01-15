@@ -1,0 +1,57 @@
+= Wie funktioniert eigentlich ein Computer?
+Informatik zum Anfassen an der Grundschule Eichholz
+:toc: right
+
+== Ziel
+Die Digitalisierung stellt die Gesellschaft vor neue Herausforderungen. Computer sind allgegenwärtig und aus dem alltäglichen
+Leben nicht mehr wegzudenken. Nicht immer offensichtlich werden aber auch immer mehr Berührungspunkte im Alltag digitalisiert. Die 
+Digitalisierung birgt Chancen aber auch Risiken. In vielen Fällen benutzen wir eine Technik, die wir immer seltener verstehen.
+
+Ziel ist es, den Kindern einen kreativen Zugang zu der Funktionsweise des Computers zu ermöglichen. Im Fokus steht dabei nicht die 
+Benutzung der Standardprogramme, sondern zu verstehen wie ein Computer funktioniert. Damit soll den Kindern eine digitale Medienkompetenz
+vermittelt werden, die Ihnen einen bewussten Umgang mit digitalen Produkten ermöglicht, die Chancen zu nutzen und Gefahren zu erkennen.
+Gleichzeitig werden Sie auf einen Arbeitsmarkt vorbereitet, der immer mehr die Grundlagen der Informatik verlangt: analytisches Denken.
+
+== Unterrichtskonzept
+
+=== Wie sieht ein Computer von Innen aus?
+Viele Kinder benutzen bereits in der Grundschule mit Computern in Kontakt - vielfach auch nicht bewusst, wie z.B. mit einem Handy. Die 
+wenigsten wissen allergings, wie ein Computer von innen aussieht, aus welchen Komponenten er besteht. Zeit nachzuschauen! Unter Anleitung
+eines Erwachsenen können die Kindern einen Computer auseinanderbauen und lernen dabei gleichzeitig, welche Sicherheitsvorkehrungen getroffen
+werden müssen, wenn Sie mit elektrischen Geräten in Kontakt kommen - was Sie im Alltag unweigerlich tun werden.
+
+Nachdem der Desktop Rechner geöffnet wurde, werden grundlegende Bestandeile wie Prozessor, Mainboard, Festplatte gezeigt und deren Funktionsweise
+erläutert.
+
+Ziel der Unterrichtseinheit:
+
+* Sicherheitsweinsung im Umgang mit elektrischen Geräten
+* Erläuterung des Aufbaus und Funktionsweise des Computers
+
+=== Das programmierbare Klassenzimmer
+Computer werden programmiert. Algorithmen - Handlungsvorschriften zu Lösung eines Problems - spielen dabei eine große Rolle. Um Algorithmen
+für Kinder greifbar zu machen, wird in dieser Einheit das gesamte Klassenzimmer in die Programmierung einbezogen - ganz ohne Computer. 
+Die im Raum vorhandenen Tische werden mit Verschiebeanweisungen im Raum bewegt und die Kinder müssen in Form von "Rezepten" herausbekommen, 
+wie die Tische verschoben werden müssen.
+
+=== Kreatives Programmieren
+Nachdem die Kinder einen Computer von Innen kennen und ersten Kontakt mit Algorithmen bekommen haben, können Sie nun mit richtigen
+Computern kreativ arbeiten. Dabei stehen zwei mögliche Varianten zur Auswahl:
+
+==== Callliope Mini
+Der Calliope Mini ist ein Einplatinencomputer der von der gemeinnützigen Gesellschaft Calliope <<calliope>> entwickelt wurde. Das Vorgängermodell BBC MicroBit wird
+bereits seit einigen Jahren an den Schulen in Großbritannien eingesetzt. Der Calliope Mini ist speziell für den Einsatz an Grundschulen
+konzipiert und beinhaltet alles, um den Forscherdrang und Kreativität der Kinder zu wecken.
+
+Der Calliope Mini wird bereits an einigen Grundschulen getestet und in den nächsten Monaten flächendenkend in Deutschland verteilt. Die Mission
+mission der Calliope Gesellschaft ist es
+
+[quote, Calliope, Mission Statement]
+[...] jedem Schulkind in Deutschland ab der 3. Klasse einen spielerischen Zugang zur digitalen Welt zu ermöglichen.
+
+
+==== Lego WeDo
+
+== Referenzen
+[bibliography]
+- [[calliope]] Calliope gGmbH: https://calliope.cc
