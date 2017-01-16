@@ -18,7 +18,7 @@ von Heute und Morgen.
 
 == Unterrichtskonzept
 Das Fach "Informatik" kann auf verschiedenste Weise in den Unterricht integriert werden. Beispielhaft sollen hier nur 3
-Beispiele genannnt werden, die die Vermittlung von Informatik als primäres Ziel haben. Alternativ können Elemente davon
+Ideen genannnt werden, die die Vermittlung von Informatik als primäres Ziel haben. Alternativ können Elemente davon
 auch in anderen Unterrichtsbereichen verwendet werden - z.B. in Mathematik oder im Sachkundeunterricht.
 
 === Wie sieht ein Computer von Innen aus?
