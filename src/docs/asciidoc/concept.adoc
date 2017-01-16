@@ -51,6 +51,10 @@ Bezogen auf die Bewegung eines Menschen, wäre ein Algorithmus beispielsweise:
 
 In einem kleinen Spiel werden die Kinder verschiedene Aufgaben mit Tischen durchführen.
 
+Ziel der Unterrichtseinheit:
+
+* Algorithmesches Denken
+
 === Kreatives Programmieren mit dem Calliope Mini
 
 image::images/calliope.jpg[Calliope Mini(Quelle: Calliope), 300, 200, align="center"]
@@ -82,6 +86,10 @@ kreativen Projekten benötigt:
 
 Die Calliope Organisation wird vom Schulbuchverlag Cornelsen unterstützt, der Unterrichtsmaterialien <<cornelsen>> für Lehrer
 angefertigt hat.
+
+Ziel der Unterrichtseinheit:
+
+* Erste Programmierkenntnisse erlangen
 
 ==== Mögliche Projekte
 * Würfel
