@@ -91,7 +91,7 @@ angefertigt hat.
 * Straßenbeleuchtung
  
 ==== Kosten
-Über die Crowdfunding Plattform startnext konnten 25(ein Klassensatz) Calliope Rechner für 750,- bestellt werden. Diese werden
+Über die Crowdfunding Plattform startnext <<startnext>> konnten 25(ein Klassensatz) Calliope Rechner für 750,- bestellt werden. Diese werden
 voraussichtlich im April 2017 zugestellt.
 
 == Referenzen
@@ -101,3 +101,5 @@ voraussichtlich im April 2017 zugestellt.
 - [[calliope]] https://calliope.cc
 - [[microbit]] http://microbit.org/
 - [[cornelsen]] http://calliope.cc/lehrer-informationen
+- [[startnext]] https://www.startnext.com/calliope
+
