@@ -5,15 +5,12 @@ Informatik zum Anfassen an der Grundschule Eichholz
 
 == Ziel
 Computer sind in den meisten Lebensbereichen mittlerweile nicht mehr wegzudenken. Viele Vorgänge des täglichen Lebens wie z.B
-Überweisungen, Steuererklärungen können über das Internet abgewickelt werden. Und auch die Arbeitswelt verändert sich 
-durch die fortschreitende Digitalisierung - mit allen Chancen und Risiken. Denn um mit der gestiegenen Komplexität des Alltags 
-und des Berufsleben umgehen zu können, benötigen wir und vor allen Dingen die zukünftigen Generationen eine
-digitale Kompetenz, die es ermöglicht, mit den neuen Medien bewusst umgehen zu können. 
+Überweisungen, Steuererklärungen, Einkäufe können über das Internet abgewickelt werden. Und auch die Arbeitswelt verändert sich 
+durch die fortschreitende Digitalisierung - mit allen Chancen und Risiken. 
+
+Um mit der gestiegenen Komplexität des Alltags und des Berufsleben umgehen zu können, benötigen wir und vor allen Dingen die zukünftigen Generationen eine digitale Kompetenz, die es ermöglicht mit den neuen Medien bewusst umgehen zu können. Grundlage für eben diese Kompetenz ist es, _Computer nicht nur bedienen zu können, sondern Sie zu verstehen._ Dieses Verständnis hilft, nicht in eine Abhängigkeit der Technik zu geraten, sondern Sie (selbst-)bewusst zu benutzen.
 
 Dieses Thema wird aktuell in den Medien diskutiert, siehe <<zeit>> und <<p_daily>>.
-
-Grundlage für eben diese Kompetenz ist es, _Computer nicht nur bedienen zu können, sondern Sie zu verstehen._ Dieses
-Verständnis hilft, nicht in eine Abhängigkeit der Technik zu geraten, sondern Sie (selbst-)bewusst zu benutzen.
 
 Ziel der Initiative ist es, Kindern einen kreativen Zugang zu der Funktionsweise von Computern zu vermitteln. Sie
 erlernen Programmierfähigkeiten und damit grundlegende Medienkompetenzen, dringend notwendige Kompetenzen für die Welt
