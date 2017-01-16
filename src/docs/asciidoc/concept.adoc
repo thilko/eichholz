@@ -1,27 +1,40 @@
 = Wie funktioniert eigentlich ein Computer?
 Informatik zum Anfassen an der Grundschule Eichholz
 :toc: right
+:toc-title: Inhaltsverzeichnis
 
 == Ziel
-Die Digitalisierung stellt die Gesellschaft vor neue Herausforderungen. Computer sind allgegenwärtig und aus dem alltäglichen
-Leben nicht mehr wegzudenken. Nicht immer offensichtlich werden aber auch immer mehr Berührungspunkte im Alltag digitalisiert. Die 
-Digitalisierung birgt Chancen aber auch Risiken. In vielen Fällen benutzen wir eine Technik, die wir immer seltener verstehen.
+Computer sind in den meisten Lebensbereichen mittlerweile nicht mehr wegzudenken. Viele Vorgänge des täglichen Lebens wie z.B
+Überweisungen, Steuererklärungen können über das Internet abgewickelt werden. Und auch die Arbeitswelt verändert sich 
+durch die fortschreitende Digitalisierung - mit allen Chancen und Risiken. Denn um mit der gestiegenen Komplexität des Alltags 
+und des Berufsleben umgehen zu können, benötigen wir und vor allen Dingen die zukünftigen Generationen eine
+digitale Kompetenz, die es ermöglicht, mit den neuen Medien bewusst umgehen zu können. 
 
-Ziel ist es, den Kindern einen kreativen Zugang zu der Funktionsweise des Computers zu ermöglichen. Im Fokus steht dabei nicht die 
-Benutzung der Standardprogramme, sondern zu verstehen wie ein Computer funktioniert. Damit soll den Kindern eine digitale Medienkompetenz
-vermittelt werden, die Ihnen einen bewussten Umgang mit digitalen Produkten ermöglicht, die Chancen zu nutzen und Gefahren zu erkennen.
-Gleichzeitig werden Sie auf einen Arbeitsmarkt vorbereitet, der immer mehr die Grundlagen der Informatik verlangt: analytisches Denken.
+Dieses Thema wird aktuell in den Medien diskutiert, siehe <<zeit>> und <<p_daily>>.
+
+Grundlage für eben diese Kompetenz ist es, _Computer nicht nur bedienen zu können, sondern Sie zu verstehen._ Dieses
+Verständnis hilft, nicht in eine Abhängigkeit der Technik zu geraten, sondern Sie (selbst-)bewusst zu benutzen.
+
+Ziel der Initiative ist es, Kindern einen kreativen Zugang zu der Funktionsweise von Computern zu vermitteln. Sie
+erlernen Programmierfähigkeiten und damit grundlegende Medienkompetenzen, dringend notwendige Kompetenzen für die Welt
+von Heute und Morgen.
 
 == Unterrichtskonzept
+Das Fach "Informatik" kann auf verschiedenste Weise in den Unterricht integriert werden. Beispielhaft sollen hier nur 3
+Beispiele genannnt werden, die die Vermittlung von Informatik als primäres Ziel haben. Alternativ können Elemente davon
+auch in anderen Unterrichtsbereichen verwendet werden - z.B. in Mathematik oder im Sachkundeunterricht.
 
 === Wie sieht ein Computer von Innen aus?
-Viele Kinder benutzen bereits in der Grundschule mit Computern in Kontakt - vielfach auch nicht bewusst, wie z.B. mit einem Handy. Die 
-wenigsten wissen allergings, wie ein Computer von innen aussieht, aus welchen Komponenten er besteht. Zeit nachzuschauen! Unter Anleitung
-eines Erwachsenen können die Kindern einen Computer auseinanderbauen und lernen dabei gleichzeitig, welche Sicherheitsvorkehrungen getroffen
-werden müssen, wenn Sie mit elektrischen Geräten in Kontakt kommen - was Sie im Alltag unweigerlich tun werden.
+Die meisten Kinder kommen schon sehr früh mit dem Computer in Kontakt - aber die wenigsten wissen aber wie er eigentlich
+funktioniert. 
 
-Nachdem der Desktop Rechner geöffnet wurde, werden grundlegende Bestandeile wie Prozessor, Mainboard, Festplatte gezeigt und deren Funktionsweise
-erläutert.
+Unter Anleitung eines Lehrers schrauben die Kinder in dieser Unterichtseinheit einen handelsüblichen Desktopcomputer
+auf, es bieten sich hier die vorhanden Geräte im Computerraum an. Die Kindern lernen bereits dort, welche
+Sicherheitsvorkehrungen beim Umgang mit elektrischen Geräten getroffen werden müssen - Wissen, das Sie ebenfalls im
+Alltag benötigen.
+
+Die Kinder bekommen einen Eindruck aus welchen Komponenten(Prozessor, Festplatte, Speicher etc.) und lernen deren
+Aufgabe.
 
 Ziel der Unterrichtseinheit:
 
@@ -29,29 +42,65 @@ Ziel der Unterrichtseinheit:
 * Erläuterung des Aufbaus und Funktionsweise des Computers
 
 === Das programmierbare Klassenzimmer
-Computer werden programmiert. Algorithmen - Handlungsvorschriften zu Lösung eines Problems - spielen dabei eine große Rolle. Um Algorithmen
-für Kinder greifbar zu machen, wird in dieser Einheit das gesamte Klassenzimmer in die Programmierung einbezogen - ganz ohne Computer. 
-Die im Raum vorhandenen Tische werden mit Verschiebeanweisungen im Raum bewegt und die Kinder müssen in Form von "Rezepten" herausbekommen, 
-wie die Tische verschoben werden müssen.
+Algorithmen spielen beim Verständnis von Computern eine Große Rolle. Algorithmen sind eindeutige Handlungsvorschriften
+für die Lösung eines Problems. Algorithmen sind etwas "virtuelles" und damit zunnächst für Kinder nicht direkt greifbar.
+Deshalb soll in dieser Einheit das Klassenzimmer programiert werden - ganz ohne Computer.
 
-=== Kreatives Programmieren
-Nachdem die Kinder einen Computer von Innen kennen und ersten Kontakt mit Algorithmen bekommen haben, können Sie nun mit richtigen
-Computern kreativ arbeiten. Dabei stehen zwei mögliche Varianten zur Auswahl:
+Bezogen auf die Bewegung eines Menschen, wäre ein Algorithmus beispielsweise:
 
-==== Callliope Mini
-Der Calliope Mini ist ein Einplatinencomputer der von der gemeinnützigen Gesellschaft Calliope <<calliope>> entwickelt wurde. Das Vorgängermodell BBC MicroBit wird
-bereits seit einigen Jahren an den Schulen in Großbritannien eingesetzt. Der Calliope Mini ist speziell für den Einsatz an Grundschulen
-konzipiert und beinhaltet alles, um den Forscherdrang und Kreativität der Kinder zu wecken.
+1. gehe geradeaus
+2. wenn eine Mauer im Weg ist,
+3. um 90° drehen
 
-Der Calliope Mini wird bereits an einigen Grundschulen getestet und in den nächsten Monaten flächendenkend in Deutschland verteilt. Die Mission
-mission der Calliope Gesellschaft ist es
+In einem kleinen Spiel werden die Kinder verschiedene Aufgaben mit Tischen durchführen.
+
+=== Kreatives Programmieren mit dem Calliope Mini
+
+image::images/calliope.jpg[Calliope Mini(Quelle: Calliope), 300, 200, align="center"]
+In dieser Einheit können Kinder mit dem Kleinstcomputer Calliope Mini<<calliope>> kreativ eigene Projekte entwickeln.
+Der Computer wird von der gemeinnützigen Gesellschaft Calliope entwickelt und aktuell in ausgewählten Grundschulen in
+Deutschland getestet. In den nächsten Monaten wird der dann im Saarland flächendeckend verteilt. Das
+Vorgängermodell. Der Vorgänger des Calliope, der BBC Micro Bit <<microbit>>  wird bereits seit einigen Jahren in
+Großbritannien an der Grundschule für den Unterricht genutzt.
 
 [quote, Calliope, Mission Statement]
-[...] jedem Schulkind in Deutschland ab der 3. Klasse einen spielerischen Zugang zur digitalen Welt zu ermöglichen.
+Unsere Mission ist es, jedem Schulkind in Deutschland ab der 3. Klasse einen spielerischen Zugang zur digitalen Welt zu ermöglichen.
 
+[quote, Calliope, Mission Statement]
+Davon versprechen wir uns besser ausgebildete Schulabgänger/innen, aber auch kritischere und souveräne Nutzer/innen der
+neuen Technologien, die sowohl Begeisterung für die Möglichkeiten als auch ein Gefühl für die Gefahren vermittelt
+bekommen haben.
 
-==== Lego WeDo
+Der Calliope Mini ist speziell für den Einsatz an Grundschulen konzipiert und beinhaltet alles, was die Entwicklung von
+kreativen Projekten benötigt:
+
+* Lämpchen
+* Knöpfe
+* Kompass
+* Beschleunigungssensor
+* Temperatur-, und Hellikgeitssensor
+* USB und Bluetooth
+* Lautsprecher und Mikrofon
+* Motoranschluss
+
+Die Calliope Organisation wird vom Schulbuchverlag Cornelsen unterstützt, der Unterrichtsmaterialien <<cornelsen>> für Lehrer
+angefertigt hat.
+
+==== Mögliche Projekte
+* Würfel
+* 1x1 Rechentrainer
+* Alarmanlage
+* Pflanzenbewässerung
+* Straßenbeleuchtung
+ 
+==== Kosten
+Über die Crowdfunding Plattform startnext konnten 25(ein Klassensatz) Calliope Rechner für 750,- bestellt werden. Diese werden
+voraussichtlich im April 2017 zugestellt.
 
 == Referenzen
 [bibliography]
-- [[calliope]] Calliope gGmbH: https://calliope.cc
+- [[zeit]] http://www.zeit.de/digital/internet/2016-03/bildung-schulfach-digitalkunde-erste-klasse
+- [[p_daily]] https://perspective-daily.de/article/158/Nt8OIy7m
+- [[calliope]] https://calliope.cc
+- [[microbit]] http://microbit.org/
+- [[cornelsen]] http://calliope.cc/lehrer-informationen
