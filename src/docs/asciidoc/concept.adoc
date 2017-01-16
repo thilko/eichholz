@@ -13,8 +13,8 @@ Um mit der gestiegenen Komplexität des Alltags und des Berufsleben umgehen zu k
 Dieses Thema wird aktuell in den Medien diskutiert, siehe <<zeit>> und <<p_daily>>.
 
 Ziel der Initiative ist es, Kindern einen kreativen Zugang zu der Funktionsweise von Computern zu vermitteln. Sie
-erlernen Programmierfähigkeiten und damit grundlegende Medienkompetenzen, dringend notwendige Kompetenzen für die Welt
-von Heute und Morgen.
+erlernen Programmierfähigkeiten und damit grundlegende Medienkompetenzen, dringend notwendig für die Welt
+von heute und morgen.
 
 == Unterrichtskonzept
 Das Fach "Informatik" kann auf verschiedenste Weise in den Unterricht integriert werden. Beispielhaft sollen hier nur 3
@@ -35,13 +35,13 @@ Aufgabe.
 
 Ziel der Unterrichtseinheit:
 
-* Sicherheitsweinsung im Umgang mit elektrischen Geräten
+* Sicherheit im Umgang mit elektrischen Geräten
 * Erläuterung des Aufbaus und Funktionsweise des Computers
 
 === Das programmierbare Klassenzimmer
-Algorithmen spielen beim Verständnis von Computern eine Große Rolle. Algorithmen sind eindeutige Handlungsvorschriften
-für die Lösung eines Problems. Algorithmen sind etwas "virtuelles" und damit zunnächst für Kinder nicht direkt greifbar.
-Deshalb soll in dieser Einheit das Klassenzimmer programiert werden - ganz ohne Computer.
+Algorithmen spielen beim Verständnis von Computern eine große Rolle. Algorithmen sind eindeutige Handlungsvorschriften
+für die Lösung eines Problems. Um die Idee den Kindern zu veranschaulichen, soll in dieser Einheit das Klassenzimmer
+programmiert werden - ganz ohne Computer.
 
 Bezogen auf die Bewegung eines Menschen, wäre ein Algorithmus beispielsweise:
 
@@ -49,20 +49,21 @@ Bezogen auf die Bewegung eines Menschen, wäre ein Algorithmus beispielsweise:
 2. wenn eine Mauer im Weg ist,
 3. um 90° drehen
 
-In einem kleinen Spiel werden die Kinder verschiedene Aufgaben mit Tischen durchführen.
+In einem kleinen Spiel werden die Kinder verschiedene Aufgaben mit Tischen durchführen. Verschiebeanweisungen
+verdeutlichen dabei die Arbeitsweise von Algorithmen <<labyrinth>>.
 
 Ziel der Unterrichtseinheit:
 
-* Algorithmesches Denken
+* Algorithmisches Denken
 
 === Kreatives Programmieren mit dem Calliope Mini
 
 image::images/calliope.jpg[Calliope Mini(Quelle: Calliope), 300, 200, align="center"]
 In dieser Einheit können Kinder mit dem Kleinstcomputer Calliope Mini<<calliope>> kreativ eigene Projekte entwickeln.
 Der Computer wird von der gemeinnützigen Gesellschaft Calliope entwickelt und aktuell in ausgewählten Grundschulen in
-Deutschland getestet. In den nächsten Monaten wird der dann im Saarland flächendeckend verteilt. Das
-Vorgängermodell. Der Vorgänger des Calliope, der BBC Micro Bit <<microbit>>  wird bereits seit einigen Jahren in
-Großbritannien an der Grundschule für den Unterricht genutzt.
+Deutschland getestet. In den nächsten Monaten wird er dann im Saarland flächendeckend verteilt. Das
+Vorgängermodell, der BBC Micro Bit <<microbit>>  wird bereits seit einigen Jahren in Großbritannien an den Grundschulen 
+für den Unterricht genutzt.
 
 [quote, Calliope, Mission Statement]
 Unsere Mission ist es, jedem Schulkind in Deutschland ab der 3. Klasse einen spielerischen Zugang zur digitalen Welt zu ermöglichen.
@@ -72,7 +73,7 @@ Davon versprechen wir uns besser ausgebildete Schulabgänger/innen, aber auch kr
 neuen Technologien, die sowohl Begeisterung für die Möglichkeiten als auch ein Gefühl für die Gefahren vermittelt
 bekommen haben.
 
-Der Calliope Mini ist speziell für den Einsatz an Grundschulen konzipiert und beinhaltet alles, was die Entwicklung von
+Der Calliope Mini ist speziell für den Einsatz an Grundschulen konzipiert und beinhaltet alles was die Entwicklung von
 kreativen Projekten benötigt:
 
 * Lämpchen
@@ -90,6 +91,7 @@ angefertigt hat.
 Ziel der Unterrichtseinheit:
 
 * Erste Programmierkenntnisse erlangen
+* Kreativität im Umgang mit dem Computer fördern
 
 ==== Mögliche Projekte
 * Würfel
@@ -110,4 +112,5 @@ voraussichtlich im April 2017 zugestellt.
 - [[microbit]] http://microbit.org/
 - [[cornelsen]] http://calliope.cc/lehrer-informationen
 - [[startnext]] https://www.startnext.com/calliope
-
+- [[labyrinth]]
+  https://kinder-geben-kommandos.de/2015/12/11/das-labyrinth-im-klassenzimmer-workshopmaterialien-fur-grundschulen/
