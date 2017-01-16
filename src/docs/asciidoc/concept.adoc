@@ -22,11 +22,11 @@ Ideen genannnt werden, die die Vermittlung von Informatik als primäres Ziel hab
 auch in anderen Unterrichtsbereichen verwendet werden - z.B. in Mathematik oder im Sachkundeunterricht.
 
 === Wie sieht ein Computer von Innen aus?
-Die meisten Kinder kommen schon sehr früh mit dem Computer in Kontakt - aber die wenigsten wissen aber wie er eigentlich
+Die meisten Kinder kommen schon sehr früh mit dem Computer in Kontakt - aber die wenigsten wissen wie er eigentlich
 funktioniert. 
 
 Unter Anleitung eines Lehrers schrauben die Kinder in dieser Unterichtseinheit einen handelsüblichen Desktopcomputer
-auf, es bieten sich hier die vorhanden Geräte im Computerraum an. Die Kindern lernen bereits dort, welche
+auf, es bietet sich hier ein Vorführgerät aus dem Computerraum an. Die Kindern lernen, welche
 Sicherheitsvorkehrungen beim Umgang mit elektrischen Geräten getroffen werden müssen - Wissen, das Sie ebenfalls im
 Alltag benötigen.
 
